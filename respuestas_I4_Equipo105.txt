@@ -6,4 +6,6 @@ A- BLUE
 B- YELLOW
 C- BLUE
 D- ALFA
-
+E- Si BETA y GAMMA
+F- Fueron rechazadas porque el remoto contiene trabajo que no existe localmente
+G- 
