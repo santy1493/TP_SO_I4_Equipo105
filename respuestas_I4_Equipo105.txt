@@ -1,0 +1,13 @@
+Fossa Santiago
+Andaur Luis
+Cespedes Braian
+
+A- BLUE
+B- YELLOW
+C- BLUE
+D- ALFA
+E- Si BETA y GAMMA
+F- Fueron rechazadas porque el remoto contiene trabajo que no existe localmente
+G- Se puede hacer git pull, lo que genera un conflicto en el archivo y hay que modificarlo
+H- Si se usa el push -f se pisan los archivos
+I- Cada uno tiene que hacer el pull antes de modificar el archivo y hacer el push 
